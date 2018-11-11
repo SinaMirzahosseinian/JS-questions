@@ -1,0 +1,1 @@
+- [Abstractions ](<https://en.wikipedia.org/wiki/Abstraction_(computer_science)>) - Hide the deitals,show the essentials
